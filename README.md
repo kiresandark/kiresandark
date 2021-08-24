@@ -1,5 +1,7 @@
-### Hi there 👋
-
+[![MasterHead](header.png)](https://github.com/kiresandark)
+<img align="left" alt="Coding"  width="400" height="400" src="https://raw.githubusercontent.com/kiresandark/kiresandark/main/banner.png">
+## 📈 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiresandark&theme=blueberry&show_icons=true)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kiresandark&theme=blueberry&repo=Arduino_laser_tag&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kiresandark/kiresandark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
